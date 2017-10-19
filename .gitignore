@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+#使用这个文件在idea中就会将这里列出的文件和目录隐藏，感觉这样不好，
+#所以最好希望命令行脱离版本控制，然后提交的时候勾掉相应的文件。
+#.idea/
+#.gitignore
+test/
