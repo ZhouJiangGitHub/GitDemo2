@@ -1,8 +1,3 @@
-build/
-.settings/
+
 .idea/
-out/
-target/
-classes/
-*.iml
-.DS_Store
+test/
